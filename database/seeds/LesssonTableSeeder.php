@@ -11,6 +11,7 @@ class LesssonTableSeeder extends Seeder
      * php artisan make:seeder LesssonTableSeeder
      * composer search faker
      * composer require fzaninotto/faker --dev
+     * update to AppServiceProvider
      * @return void
      */
     public function run()
