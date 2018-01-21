@@ -8,7 +8,9 @@ class LesssonTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
-     *
+     * php artisan make:seeder LesssonTableSeeder
+     * composer search faker
+     * composer require fzaninotto/faker --dev
      * @return void
      */
     public function run()
